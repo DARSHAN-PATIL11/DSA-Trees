@@ -1,24 +1,27 @@
 # Practice Problems
 
-This section contains coding problems and exercises to help reinforce tree concepts.
+This section contains curated coding problems and exercises to help reinforce your understanding of trees and related algorithms.
 
 ## Sources
 
-- LeetCode
-https://leetcode.com/problems/binary-tree-preorder-traversal/description/
-https://leetcode.com/problems/binary-tree-inorder-traversal/description/
-https://leetcode.com/problems/binary-tree-postorder-traversal/description/
-https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+### LeetCode
+
+- [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+- [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+- [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
+- [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
+
+### Other Platforms
+
 - GeeksforGeeks
 - InterviewBit
 - Codeforces
 
 ## Problem Topics
 
-- Recursive traversal
-- BST insertion and deletion
-- Diameter of a tree
-- Balanced binary tree check
-- Lowest common ancestor
-- Tree serialization and deserialization
-
+- Recursive and Iterative Tree Traversals
+- Binary Search Tree (BST) Insertion and Deletion
+- Diameter of a Tree
+- Balanced Binary Tree Check
+- Lowest Common Ancestor (LCA)
+- Tree Serialization and Deserialization
